@@ -1,4 +1,9 @@
 This is initial message;
 Masoomeh Attaei.
 Zahra Saboktakin : Merci Masoomeh for helped me.
+<<<<<<< HEAD
 elmiralotfi
+=======
+Zahra Saboktakin : The second exercise.
+>>>>>>> 5ce54978d61ff24045f025bdfbc83c9854179c07
+elmira: the second exercise
